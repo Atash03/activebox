@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/activebox/static/css/main.368315fb.css",
+    "main.js": "/activebox/static/js/main.58b229ba.js",
+    "static/js/787.f2b00cb5.chunk.js": "/activebox/static/js/787.f2b00cb5.chunk.js",
+    "static/media/review-1.jpg": "/activebox/static/media/review-1.4ccdd50593e49c9757b1.jpg",
+    "static/media/work-7.jpg": "/activebox/static/media/work-7.6aa42e092655ee353e73.jpg",
+    "static/media/intro-bg.jpg": "/activebox/static/media/intro-bg.385d4c7bb08f99896b30.jpg",
+    "static/media/work-1.jpg": "/activebox/static/media/work-1.a42f3a63bd839f204379.jpg",
+    "static/media/work-5.jpg": "/activebox/static/media/work-5.7cae256e3a5d82198b83.jpg",
+    "static/media/work-8.jpg": "/activebox/static/media/work-8.d379e7e205090f5836bd.jpg",
+    "static/media/work-6.jpg": "/activebox/static/media/work-6.58f38f32bf14f617baf5.jpg",
+    "static/media/work-2.jpg": "/activebox/static/media/work-2.3e20a6826563dfc2f17f.jpg",
+    "static/media/work-3.jpg": "/activebox/static/media/work-3.bc012d623479a0858ddb.jpg",
+    "static/media/work-4.jpg": "/activebox/static/media/work-4.14c965d80dd8857e6518.jpg",
+    "static/media/team-1.jpg": "/activebox/static/media/team-1.9e4a0e3abc3b2d44d813.jpg",
+    "static/media/team-4.jpg": "/activebox/static/media/team-4.086f657ae4c7dbef327f.jpg",
+    "static/media/team-3.jpg": "/activebox/static/media/team-3.15f0e7e8b5e296a595a5.jpg",
+    "static/media/team-2.jpg": "/activebox/static/media/team-2.e14fb2449b5c87f9952f.jpg",
+    "static/media/facebook.svg": "/activebox/static/media/facebook.5b8592f6801b0c75c48659b93f16b9bc.svg",
+    "index.html": "/activebox/index.html",
+    "main.368315fb.css.map": "/activebox/static/css/main.368315fb.css.map",
+    "main.58b229ba.js.map": "/activebox/static/js/main.58b229ba.js.map",
+    "787.f2b00cb5.chunk.js.map": "/activebox/static/js/787.f2b00cb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.368315fb.css",
+    "static/js/main.58b229ba.js"
+  ]
+}
